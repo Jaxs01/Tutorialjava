@@ -1,6 +1,6 @@
 //1. Hello world ...compile with javac
 //2. create a packagetamingjava
-//3.
+
 package com.tamingjava;
 
 /**
