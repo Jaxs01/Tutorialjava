@@ -1,5 +1,6 @@
 //Step6: Add a new Print.java class in com.tamingjava.print package. 
 //Add a static method in this class that accepts a String param and prints it.
+//Step7:Step 7: Call Print.java class from Main.java to print “hello Jaxs have a fabulous fantastic day”.
 
 package com.tamingjava;
 
@@ -9,10 +10,8 @@ package com.tamingjava;
  
 public class Print 
 {
-    public static void main (String [] args) 
+    public static void print (String printable) 
 	{
-        System.out.println("To have a fabulous fantastic Day...Please enter your name: ");
-		String name = System.console().readLine();
-		System.out.println("\"Hello " + name + ",have a fabulous fantastic day\"");
+       		System.out.println("\"Hello " + printable + ",have a fabulous fantastic day\"");
     }
 }	
