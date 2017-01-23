@@ -12,7 +12,7 @@ public class Main
 {
     public static void main (String[] args) 
 	{
-		for(int i = 0;i < args.length; i++)
-        Print.print (args[i]);
+		//for(int i = 0;i < args.length; i++)
+        Print.print (args[0]);
     }
 }

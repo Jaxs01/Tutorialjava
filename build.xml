@@ -20,7 +20,9 @@
 	
 
     <target name="run">
-        <java jar="build/jar/HelloJaxs.jar" fork="true"/>
+        <java jar="build/jar/HelloJaxs.jar" fork="true">
+		<arg value="Jaxs"/> 
+		</java>
     </target>
 
 </project>
