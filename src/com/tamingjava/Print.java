@@ -19,6 +19,6 @@ public class Print
 * and another line printed
 */
        		System.out.println("\" Hello " + printable + ",\n \t how are you today?\"");
-			System.out.println("*              Have a wonderful day           *");
+			System.out.println("*               Have a wonderful day           *");
     }
 }	
