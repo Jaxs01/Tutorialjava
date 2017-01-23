@@ -17,6 +17,7 @@
             </manifest>
         </jar>
     </target>
+	
 
     <target name="run">
         <java jar="build/jar/HelloJaxs.jar" fork="true"/>
