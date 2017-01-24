@@ -6,7 +6,11 @@
 
     <target name="compile">
         <mkdir dir="build/classes"/>
-        <javac srcdir="src" destdir="build/classes" includeantruntime="false"/>
+        <javac srcdir="src" destdir="build/classes" includeantruntime="false">
+			 <classpath>
+        		<pathelement path="lib/commons-lang3-3.5.jar"/>
+        	</classpath>
+        </javac>
     </target>
 
     <target name="jar">
