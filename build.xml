@@ -16,6 +16,7 @@
     <target name="jar">
         <mkdir dir="build/jar"/>
         <jar destfile="build/jar/HelloJaxs.jar" basedir="build/classes">
+			<zipgroupfileset dir="lib" includes="commons-lang3-3.5.jar"/>
             <manifest>
                 <attribute name="Main-Class" value="com.tamingjava.Main"/>
             </manifest>
