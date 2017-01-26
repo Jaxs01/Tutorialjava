@@ -1,6 +1,13 @@
 *.class
 *.project
 *.classpath
+<<<<<<< HEAD
+*.externalToolBuilders/TutorialJava
+.externalToolBuilders*
+.settings*
+bin/*
+=======
 .externalToolBuilders/TutorialJava
 .externalToolBuilders*
 .settings*
+>>>>>>> af792204e21dc7788732e5fc548729aa2c08e09b
