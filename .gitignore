@@ -1,4 +1,5 @@
 *.class
 *.project
 *.classpath
-.externalToolBuilders/*
+.externalToolBuilders/TutorialJava
+.settings/org.eclipse.*
