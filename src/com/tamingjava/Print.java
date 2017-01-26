@@ -26,7 +26,7 @@ public class Print
 	}
 	
 	
-	private static String stringConversionAndReturnValue (String name) 
+	public static String stringConversionAndReturnValue (String name) 
 	{
 		name = StringUtils.upperCase(name);
 		String message = ( ":-)"+ name + " is awesome ");
