@@ -2,6 +2,7 @@
 *.project
 *.classpath
 *.externalToolBuilders/TutorialJava
-/.externalToolBuilders*
-/.settings*
-/bin/*
+.externalToolBuilders*
+.settings*
+bin/*
+build/jar/*
