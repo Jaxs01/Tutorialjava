@@ -29,7 +29,7 @@ public class Print
 	private static String stringConversionAndReturnValue (String name) 
 	{
 		name = StringUtils.upperCase(name);
-		String message = (" and  " + name + " how are you today? "+ name + " ....did you smile today?");
+		String message = ( ":-)"+ name + " is awesome ");
 		return message;
 	}
 }	
