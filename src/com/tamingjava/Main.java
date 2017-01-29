@@ -19,6 +19,6 @@ public class Main
 		String str1 = "hey wonderful people";
 		str1 = StringUtils.upperCase(str1);
 		System.out.println(str1);
-		Print.upperCaseStringConversion(args[0]);
+		Print.stringConversionAndReturnValue(args[0]);
     }
 }
