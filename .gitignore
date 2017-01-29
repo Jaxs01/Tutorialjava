@@ -5,4 +5,4 @@
 .externalToolBuilders*
 .settings*
 bin/*
-build/jar/*
+/build/jar/*
