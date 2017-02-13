@@ -6,6 +6,5 @@
 ::calling the programm with the variable "Jaxs "
 ::java -classpath src; com.tamingjava.Main "Jaxs"
 :: Compile, package and run the application via ant
-ant compile jar run 
-
- 
+:: ant compile jar run 
+:: java -jar "bin/jar/HelloJaxs.jar" Jaxs
