@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: Jaxs jar
-Implementation-Version: 1.0
-
