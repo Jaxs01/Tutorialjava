@@ -6,3 +6,6 @@
 .settings*
 bin/*
 /build/jar/*
+.gradle*
+build/*
+gradle/*
