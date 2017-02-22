@@ -1,12 +1,7 @@
 apply plugin: 'java'
 
-
 group = 'com.tamingjava'
-version = '1.0-SNAPSHOT'
-
-sourceCompatibility = 1.6
-targetCompatibility = 1.6
-
+version = '1.0'
 
 
 repositories {
@@ -38,5 +33,3 @@ uploadArchives {
        }
     }
 }
-
-
