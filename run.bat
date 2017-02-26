@@ -9,5 +9,7 @@
 :: ant clean compile jar run 
 ::java -jar "bin/jar/Main.jar" Jaxs
 ::java -classpath lib/commons-lang3-3.5.jar;bin/Main.jar com.tamingjava.Main Jaxs
-::Run withith Gradle setup
-gradle clean build
+::Run withith Gradle setup(step19/20/21)
+::gradle clean build
+::Run the project with Gradle Wrapper
+gradle wrapper clean build
