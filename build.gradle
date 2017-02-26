@@ -1,6 +1,5 @@
 apply plugin: 'java'
 apply plugin: 'application'
-apply plugin: 'distribution'
 
 group = 'com.tamingjava'
 version = '1.0'
