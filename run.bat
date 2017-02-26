@@ -8,7 +8,6 @@
 :: Compile, package and run the application via ant
 :: ant clean compile jar run 
 ::java -jar "bin/jar/Main.jar" Jaxs
-::Run withith Gradle setup
-gradle build
-::java -cp build/libs/tamingjava-1.0-SNAPSHOT.jar com.tamingjava.Main "Jaxs"
 ::java -classpath lib/commons-lang3-3.5.jar;bin/Main.jar com.tamingjava.Main Jaxs
+::Run withith Gradle setup
+gradle clean build
