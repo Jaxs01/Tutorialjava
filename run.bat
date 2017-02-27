@@ -12,4 +12,4 @@
 ::Run withith Gradle setup
 ::gradle clean build
 ::Run the project with Gradle Wrapper
-gradle wrapper
+gradle wrapper --gradle-version 3.3
