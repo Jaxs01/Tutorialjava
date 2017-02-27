@@ -9,4 +9,3 @@ bin/*
 .gradle*
 build/*
 gradle/*
-gradlew*
