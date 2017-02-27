@@ -10,4 +10,6 @@
 ::java -jar "bin/jar/Main.jar" Jaxs
 ::java -classpath lib/commons-lang3-3.5.jar;bin/Main.jar com.tamingjava.Main Jaxs
 ::Run withith Gradle setup
-gradle clean build
+::gradle clean build
+::Run the project with Gradle Wrapper
+gradlew clean build
