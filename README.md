@@ -128,7 +128,7 @@
 * Step 20: Migrate your build script to gradle. Run the build and inspect “build” and “target” dirs.
 * Step 21: Use application plugin in gradle to generate a distribution (HINT: google “fat jars” “distribution jars” “gradle application plugin" )
 * Step 22: Use gradle wrapper to build your project. Learn why it is necessary
-* Step 23: configure a jenkins job to build your job
+* Step 23: Configure a jenkins job to build your job
 * Step 24: configure junit report for your job
 * Step 25: configure another job that uses pullrequestbuilder plugin in jenkins
 
